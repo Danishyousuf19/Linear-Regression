@@ -6,18 +6,19 @@ This repository contains machine learning projects focused on predicting housing
 
 1. **USA Housing Data**
    - Description: This project uses a dataset of USA housing prices to predict housing costs based on various factors.
-   - [Project Details](./USA_Housing_Data/README.md)
 
 2. **California Housing Data**
    - Description: This project uses the California housing dataset to predict housing prices.
-   - [Project Details](./California_Housing_Data/README.md)
 
 3. **Boston Housing Data**
    - Description: This project utilizes the Boston housing dataset to estimate housing prices based on different features.
-   - [Project Details](./Boston_Housing_Data/README.md)
+
+4. **Ecommerce Customers Dataset**
+   - Description: This project utilizes the Ecommerce Customers Dataset to estimate Average yearly spent by customers based on different features.
 
 ## Getting Started
 
 To run the projects locally, clone the repository and navigate to the respective project folder. Open the Jupyter notebook (`.ipynb` file) to see the analysis and model implementation.
-
+```bash
+git clone https://github.com/Danishyousuf19/Simple-Linear-Regression.git
 
